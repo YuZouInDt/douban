@@ -3,7 +3,7 @@
 """
 Created on Wed Nov 22 17:07:52 2017
 
-@author: liujunfu
+@author: jeff
 """
 
 import requests
