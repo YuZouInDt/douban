@@ -61,7 +61,7 @@ while status:
     status = parse_html(download_page(status))
     sleep(1)
 
-poster=open("poster_2018.html","w")
+poster=open("poster_2018.html","w",encoding="utf-8")
 #html头，可修改width和height改变图片大小，修改brightness改变每种评星电影海报的亮度
 string = """<html>
  <head>
